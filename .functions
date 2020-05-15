@@ -1,0 +1,14 @@
+ # Create directory and open
+function mk() {
+  mkdir -p "$@" && cd "$@"
+}
+
+# Run npm script
+function nr(){
+   npm run "$@"
+}
+
+# Run yarn script
+function yr() {
+    yarn run "$@"
+}
