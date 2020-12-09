@@ -1,4 +1,5 @@
-# Git
+#!/usr/bin/env bash
+
 alias ga='git add --all'
 alias gap='git add .; git commit --amend --no-edit; git push origin head --force'
 alias gb='git branch'
@@ -13,5 +14,11 @@ alias gpom='git pull origin master'
 alias gss='git status -s'
 alias gstash='git stash'
 
-# zsh
-alias ez='vi ~/.zshrc'
+function gitclean() {
+  SIZE=$(du -sh .git)
+  git remote prune origin && git repack && git prune-packed && git reflog expire --expire=1.month.ago && git gc --aggressive
+  NEW_SIZE=$(du -sh .git)
+  echo " "
+  echo "Old size: $SIZE"
+  echo "New size: $NEW_SIZE"
+}
