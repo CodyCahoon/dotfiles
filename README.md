@@ -8,3 +8,8 @@ A repository to store aliases, code snippets and other code related things
 3. `cp dotfiles/* ~; cd`
 4. `sh setup.sh`
 5. `source .zshrc`
+
+## Applications
+
+https://code.visualstudio.com/download
+

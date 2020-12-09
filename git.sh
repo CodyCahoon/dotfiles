@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 alias ga='git add --all'
 alias gap='git add .; git commit --amend --no-edit; git push origin head --force'
