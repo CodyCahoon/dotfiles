@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 export JOURNAL_PATH="/Users/codycahoon/dev/journal/"
  
