@@ -11,5 +11,6 @@ A repository to store aliases, code snippets and other code related things
 
 ## Applications
 
-https://code.visualstudio.com/download
-
+[VSCode](https://code.visualstudio.com/download)
+[Rectangle](https://rectangleapp.com/)
+[Postgres](https://postgresapp.com/)
