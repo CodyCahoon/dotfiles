@@ -11,10 +11,11 @@ A repository to store aliases, code snippets and other code related things
 
 ## Applications
 
-[VSCode](https://code.visualstudio.com/download)
-[Rectangle](https://rectangleapp.com/)
-[Postgres](https://postgresapp.com/)
+1. [VSCode](https://code.visualstudio.com/download)
+2. [Rectangle](https://rectangleapp.com/)
+3. [Postgres](https://postgresapp.com/)
 
-# Chrome Extensions
-[wappalyzer](https://www.wappalyzer.com/download/)
-[muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
+## Chrome Extensions
+
+1. [wappalyzer](https://www.wappalyzer.com/download/)
+2. [muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc?hl=en)
