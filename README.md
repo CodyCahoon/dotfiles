@@ -22,3 +22,7 @@ A repository to store aliases, code snippets and other code related things
 3. [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied/related?hl=en)
 4. [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg/related?hl=en)
 5. [Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj/related?hl=en)
+
+## Fonts
+
+1. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
