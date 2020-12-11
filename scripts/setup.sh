@@ -16,7 +16,3 @@ for script in ${scripts[@]}
 do
 	/bin/bash -c "scripts/$script.sh"
 done
-
-
-
-
