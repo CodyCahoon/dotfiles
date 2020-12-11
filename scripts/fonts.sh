@@ -25,6 +25,8 @@ download_font adobe-fonts source-code-pro "TTF"
 download_font source-foundry Hack "build/ttf"
 download_font JetBrains JetBrainsMono "fonts/ttf"
 
+echo "Opening fonts directory, double-click each file to install"
+
 open ~/fonts/
 
 

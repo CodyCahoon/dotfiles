@@ -14,6 +14,7 @@ A repository to store aliases, code snippets and other code related things
 1. [VSCode](https://code.visualstudio.com/download)
 2. [Rectangle](https://rectangleapp.com/)
 3. [Postgres](https://postgresapp.com/)
+4. [Postman](https://www.postman.com/downloads/)
 
 ## Chrome Extensions
 
