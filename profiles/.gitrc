@@ -1,4 +1,5 @@
 alias ga='git add --all'
+alias gp='git push'
 alias gap='git add .; git commit --amend --no-edit; git push origin head --force'
 alias gb='git branch'
 alias gc='git commit -m'
@@ -11,6 +12,15 @@ alias gpohf='git push origin HEAD --force'
 alias gpom='git pull origin master'
 alias gss='git status -s'
 alias gstash='git stash'
+alias gconfig='git config user.email; git config user.name'
+alias grm='git rebase master'
+alias gus='git submodule sync && git submodule update'      # git update submodules
+
+# git push current branch
+function gpb() {
+  git push origin -u $(git branch --show-current)
+}
+
 
 function gitclean() {
   SIZE=$(du -sh .git)
