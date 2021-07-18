@@ -16,6 +16,16 @@ A repository to store aliases, code snippets and other code related things
 3. [Postgres](https://postgresapp.com/)
 4. [Postman](https://www.postman.com/downloads/)
 
+## VSCode Plugins/Extensions
+
+1. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+2. [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+3. [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+4. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+5. [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+6. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+7. [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
 ## Chrome Extensions
 
 1. [wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
